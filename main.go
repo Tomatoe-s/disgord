@@ -1,7 +1,7 @@
 package main
 import (
 	"fmt"
-	"gateway"
+	"github.com/Tomatoe-s/disgord/gateway"
 )
 func main(){
 	fmt.Println("hello")
